@@ -319,12 +319,16 @@ body{
     "usdaCard bensBellsCard"
     ;
     grid-gap: 20px 20px;
-    margin: 0 auto;
-    max-width: 60%;
+    margin: 16.5%;
     margin-bottom: 0;
     margin-top: 2.5%;
     justify-content: center;
 
+  }
+
+  .casestudies > div {
+    max-width: 453px;
+    padding: 20px;
   }
 
   .setAwayHeader, .kooktHeader, .usdaHeader, .bensBellsHeader {
@@ -446,6 +450,7 @@ body{
     display: flex;
     flex-flow: row wrap;
     width: 100%;
+    margin: 0 auto;
 
   }
   /*.flexContainer {
